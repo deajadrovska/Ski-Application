@@ -1,4 +1,4 @@
-namespace SkiApp.Domain.Models
+namespace SkiApp.Domain
 {
     public class ErrorViewModel
     {

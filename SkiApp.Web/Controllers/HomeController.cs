@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using SkiApp.Domain.Models;
+using SkiApp.Domain;
 using System.Diagnostics;
 
 namespace SkiApp.Web.Controllers
